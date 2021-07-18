@@ -8,4 +8,4 @@ Tests available in the unit_test.py file.
 I also tried to stick to naming conventions and styles in python.
 
 ### To Do
-[] Implement Arg parser to make calling it a bit better for CLI. This ensures we do not need to access file to change variables
+- [ ] Implement Arg parser to make calling it a bit better for CLI. This ensures we do not need to access file to change variables
